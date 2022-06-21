@@ -3,8 +3,9 @@
 - 🌱 I’m currently learning on Patika.dev
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me ...
-  - linkedin: linkedin.com/in/mehmet-kahraman
+  - linkedin: https://www.linkedin.com/in/mehmet-kahraman
   - twitter: https://twitter.com/MehmetSKahraman
+  - instagram: https://www.instagram.com/mehmetskahraman.tr/
 
 <!---
 mehmetskahraman/mehmetskahraman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
