@@ -6,6 +6,7 @@
   - linkedin: https://www.linkedin.com/in/mehmet-kahraman
   - twitter: https://twitter.com/MehmetSKahraman
   - instagram: https://www.instagram.com/mehmetskahraman.tr/
+  - notion: https://patika-dev.notion.site/Veri-Bilimi-patikas-1500b7394e06476e9781a65145de6606
 
 <!---
 mehmetskahraman/mehmetskahraman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
